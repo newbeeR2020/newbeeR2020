@@ -11,9 +11,9 @@
 #### 我最近开始学编程
 #### 很高兴被你见到！
 ## ¡Hola todos!
-#### Estoy estudiando en la Universidad de Tokio
-#### Reciente empiezo aprender programación
-#### ¡Encantado de ser conocido de ti!
+#### Estudio bioinformática en la Universidad de Tokio
+#### Recientemente he empezado a aprender programación
+#### ¡Encantado de encontrarte!
 
 <!--
 **newbeeR2020/newbeeR2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
